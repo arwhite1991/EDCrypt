@@ -1,0 +1,4 @@
+messagespace tab    	linebreak
+softtabs4works,tab breaks and will decrypt to i(tab=9,tab+96=105) linebreak:
+space then smiley face then space then linebreak: 😀
+a windows/dos linebreak-
